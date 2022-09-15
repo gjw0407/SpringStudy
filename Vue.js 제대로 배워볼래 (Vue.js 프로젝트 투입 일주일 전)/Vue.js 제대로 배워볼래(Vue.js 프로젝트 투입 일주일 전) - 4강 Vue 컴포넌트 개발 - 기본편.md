@@ -2,7 +2,7 @@
 
 # Vue 컴포넌트 기본구조 이해하기
 
-- <template></template>
+- <TEMPLATE> </TEMPLATE>
     - html 영역
 - <script></script>
     - javascript 영역
